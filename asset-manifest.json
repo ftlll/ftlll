@@ -1,14 +1,13 @@
 {
-  "main.css": "/ftlll/static/css/main.16737698.chunk.css",
-  "main.js": "/ftlll/static/js/main.9e486b9f.chunk.js",
-  "main.js.map": "/ftlll/static/js/main.9e486b9f.chunk.js.map",
-  "static/js/1.4a34e45d.chunk.js": "/ftlll/static/js/1.4a34e45d.chunk.js",
-  "static/js/1.4a34e45d.chunk.js.map": "/ftlll/static/js/1.4a34e45d.chunk.js.map",
+  "main.css": "/ftlll/static/css/main.2e9b4cbb.chunk.css",
+  "main.js": "/ftlll/static/js/main.8a12ffed.chunk.js",
+  "main.js.map": "/ftlll/static/js/main.8a12ffed.chunk.js.map",
+  "static/js/1.9fc4ce5b.chunk.js": "/ftlll/static/js/1.9fc4ce5b.chunk.js",
+  "static/js/1.9fc4ce5b.chunk.js.map": "/ftlll/static/js/1.9fc4ce5b.chunk.js.map",
   "runtime~main.js": "/ftlll/static/js/runtime~main.50202daa.js",
   "runtime~main.js.map": "/ftlll/static/js/runtime~main.50202daa.js.map",
-  "static/media/logo.svg": "/ftlll/static/media/logo.5d5d9eef.svg",
-  "static/css/main.16737698.chunk.css.map": "/ftlll/static/css/main.16737698.chunk.css.map",
+  "static/css/main.2e9b4cbb.chunk.css.map": "/ftlll/static/css/main.2e9b4cbb.chunk.css.map",
   "index.html": "/ftlll/index.html",
-  "precache-manifest.d4ddeb8ea8eff9f7c542ac433557be03.js": "/ftlll/precache-manifest.d4ddeb8ea8eff9f7c542ac433557be03.js",
+  "precache-manifest.d36054aaf3ecb3e984f9421d3b1603bf.js": "/ftlll/precache-manifest.d36054aaf3ecb3e984f9421d3b1603bf.js",
   "service-worker.js": "/ftlll/service-worker.js"
 }
