@@ -1,13 +1,14 @@
 {
-  "main.css": "/ftlll/static/css/main.9870d8e5.chunk.css",
-  "main.js": "/ftlll/static/js/main.a163d600.chunk.js",
-  "main.js.map": "/ftlll/static/js/main.a163d600.chunk.js.map",
+  "main.css": "/ftlll/static/css/main.e44fb768.chunk.css",
+  "main.js": "/ftlll/static/js/main.03e76649.chunk.js",
+  "main.js.map": "/ftlll/static/js/main.03e76649.chunk.js.map",
   "static/js/1.90be9e53.chunk.js": "/ftlll/static/js/1.90be9e53.chunk.js",
   "static/js/1.90be9e53.chunk.js.map": "/ftlll/static/js/1.90be9e53.chunk.js.map",
   "runtime~main.js": "/ftlll/static/js/runtime~main.50202daa.js",
   "runtime~main.js.map": "/ftlll/static/js/runtime~main.50202daa.js.map",
   "static/media/image30.JPG": "/ftlll/static/media/image30.1d9610ef.JPG",
   "static/media/Tianlu Feng resume 19W.pdf": "/ftlll/static/media/Tianlu Feng resume 19W.4e73aa72.pdf",
+  "static/media/Photo.css": "/ftlll/static/media/image32.637af7de.JPG",
   "static/media/image13.JPG": "/ftlll/static/media/image13.034b6b17.JPG",
   "static/media/image17.JPG": "/ftlll/static/media/image17.d2d8685d.JPG",
   "static/media/image32.JPG": "/ftlll/static/media/image32.2f30edb8.JPG",
@@ -53,8 +54,8 @@
   "static/media/image7.JPG": "/ftlll/static/media/image7.17e320f2.JPG",
   "static/media/image8.JPG": "/ftlll/static/media/image8.f95b48aa.JPG",
   "static/media/image9.JPG": "/ftlll/static/media/image9.46b8420a.JPG",
-  "static/css/main.9870d8e5.chunk.css.map": "/ftlll/static/css/main.9870d8e5.chunk.css.map",
+  "static/css/main.e44fb768.chunk.css.map": "/ftlll/static/css/main.e44fb768.chunk.css.map",
   "index.html": "/ftlll/index.html",
-  "precache-manifest.a69eb8a2beed640f89aa04231f3fd7c6.js": "/ftlll/precache-manifest.a69eb8a2beed640f89aa04231f3fd7c6.js",
+  "precache-manifest.b316eb0a40f834bdee6fb10a4c94e320.js": "/ftlll/precache-manifest.b316eb0a40f834bdee6fb10a4c94e320.js",
   "service-worker.js": "/ftlll/service-worker.js"
 }
