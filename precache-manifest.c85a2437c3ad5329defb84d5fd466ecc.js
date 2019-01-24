@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/ftlll/static/media/image25.045aa1ae.JPG"
   },
   {
-    "revision": "3428b70a8df2285c4242",
-    "url": "/ftlll/static/css/main.95b17e59.chunk.css"
+    "revision": "95f350dc26d1c4f50b38",
+    "url": "/ftlll/static/css/main.41d4bcb6.chunk.css"
   },
   {
     "revision": "2856ff63c33a98a09b8e",
@@ -132,8 +132,8 @@ self.__precacheManifest = [
     "url": "/ftlll/static/media/image24.67825f0f.JPG"
   },
   {
-    "revision": "3428b70a8df2285c4242",
-    "url": "/ftlll/static/js/main.3428b70a.chunk.js"
+    "revision": "95f350dc26d1c4f50b38",
+    "url": "/ftlll/static/js/main.95f350dc.chunk.js"
   },
   {
     "revision": "0bd77bba6af070d4f47323c35ed08b37",
@@ -264,7 +264,7 @@ self.__precacheManifest = [
     "url": "/ftlll/static/media/fontawesome-webfont.65bcbc89.svg"
   },
   {
-    "revision": "048086e0ea6c2db0847be2fd10f528f9",
+    "revision": "7e21dee7dc06b94f747a1e14aa10bfb0",
     "url": "/ftlll/index.html"
   }
 ];
