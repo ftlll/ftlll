@@ -1,7 +1,7 @@
 {
-  "main.css": "/ftlll/static/css/main.f086de6b.chunk.css",
-  "main.js": "/ftlll/static/js/main.d60e41d9.chunk.js",
-  "main.js.map": "/ftlll/static/js/main.d60e41d9.chunk.js.map",
+  "main.css": "/ftlll/static/css/main.d0c4be3e.chunk.css",
+  "main.js": "/ftlll/static/js/main.d3911b69.chunk.js",
+  "main.js.map": "/ftlll/static/js/main.d3911b69.chunk.js.map",
   "static/js/1.2856ff63.chunk.js": "/ftlll/static/js/1.2856ff63.chunk.js",
   "static/js/1.2856ff63.chunk.js.map": "/ftlll/static/js/1.2856ff63.chunk.js.map",
   "runtime~main.js": "/ftlll/static/js/runtime~main.50202daa.js",
@@ -17,6 +17,7 @@
   "static/media/image2.JPG": "/ftlll/static/media/image2.b3edc5fb.JPG",
   "static/media/image11.JPG": "/ftlll/static/media/image11.29978c52.JPG",
   "static/media/image1.JPG": "/ftlll/static/media/image1.66046620.JPG",
+  "static/media/Beijing.css": "/ftlll/static/media/GreatWall.9c6975d1.jpg",
   "static/media/image12.JPG": "/ftlll/static/media/image12.934f2750.JPG",
   "static/media/image14.JPG": "/ftlll/static/media/image14.c9b1b55f.JPG",
   "static/media/image15.JPG": "/ftlll/static/media/image15.999df703.JPG",
@@ -55,9 +56,9 @@
   "static/media/image7.JPG": "/ftlll/static/media/image7.17e320f2.JPG",
   "static/media/image8.JPG": "/ftlll/static/media/image8.f95b48aa.JPG",
   "static/media/image9.JPG": "/ftlll/static/media/image9.46b8420a.JPG",
-  "static/media/font-awesome.css": "/ftlll/static/media/fontawesome-webfont.65bcbc89.svg",
-  "static/css/main.f086de6b.chunk.css.map": "/ftlll/static/css/main.f086de6b.chunk.css.map",
+  "static/media/font-awesome.css": "/ftlll/static/media/fontawesome-webfont.c4668ed2.ttf",
+  "static/css/main.d0c4be3e.chunk.css.map": "/ftlll/static/css/main.d0c4be3e.chunk.css.map",
   "index.html": "/ftlll/index.html",
-  "precache-manifest.d9067529bb137add63d678449f280250.js": "/ftlll/precache-manifest.d9067529bb137add63d678449f280250.js",
+  "precache-manifest.240fbdcac8fb822734cb40560a4dee95.js": "/ftlll/precache-manifest.240fbdcac8fb822734cb40560a4dee95.js",
   "service-worker.js": "/ftlll/service-worker.js"
 }
