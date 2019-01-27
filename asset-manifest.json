@@ -1,7 +1,7 @@
 {
-  "main.css": "/ftlll/static/css/main.b29c8c1e.chunk.css",
-  "main.js": "/ftlll/static/js/main.4f7f0768.chunk.js",
-  "main.js.map": "/ftlll/static/js/main.4f7f0768.chunk.js.map",
+  "main.css": "/ftlll/static/css/main.81f4627c.chunk.css",
+  "main.js": "/ftlll/static/js/main.175b61a9.chunk.js",
+  "main.js.map": "/ftlll/static/js/main.175b61a9.chunk.js.map",
   "static/js/1.85ab4951.chunk.js": "/ftlll/static/js/1.85ab4951.chunk.js",
   "static/js/1.85ab4951.chunk.js.map": "/ftlll/static/js/1.85ab4951.chunk.js.map",
   "runtime~main.js": "/ftlll/static/js/runtime~main.50202daa.js",
@@ -74,9 +74,9 @@
   "static/media/loading.gif": "/ftlll/static/media/loading.13542268.gif",
   "static/media/Nanjing.css": "/ftlll/static/media/hero.7a0d6e09.jpg",
   "static/media/qdh.css": "/ftlll/static/media/hero.f5408b86.jpg",
-  "static/media/all.css": "/ftlll/static/media/fa-solid-900.27603739.svg",
-  "static/css/main.b29c8c1e.chunk.css.map": "/ftlll/static/css/main.b29c8c1e.chunk.css.map",
+  "static/media/all.css": "/ftlll/static/media/fa-brands-400.fef43c1f.svg",
+  "static/css/main.81f4627c.chunk.css.map": "/ftlll/static/css/main.81f4627c.chunk.css.map",
   "index.html": "/ftlll/index.html",
-  "precache-manifest.1505a7abd303b98073767ebf49df208f.js": "/ftlll/precache-manifest.1505a7abd303b98073767ebf49df208f.js",
+  "precache-manifest.00e36a1432c167888aaf0ff12ccd3a3d.js": "/ftlll/precache-manifest.00e36a1432c167888aaf0ff12ccd3a3d.js",
   "service-worker.js": "/ftlll/service-worker.js"
 }
